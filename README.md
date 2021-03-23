@@ -8,7 +8,7 @@ The original task specification is held within the repository under the title 'T
 - [Description](#description)
 - [Installation](#installation)
 - [Video](#video)
-[Usage](#usage)
+- [Usage](#usage)
 - [Credits](#Credits) 
 - [Contributing](#contributing)
 - [Authors](#authors)
@@ -51,7 +51,8 @@ Sally Rodgers
 - LinkedIn: **[Sally Rodgers](www.linkedin.com/in/sallyhello1)  
 - Email: **[sallyhello1@yahoo.com](mailto:sallyhello1@yahoo.com)
 
-This project is MIT licensed. ![license](https://img.shields.io/static/v1?label=lic
+This project is MIT licensed. ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet) 
+&copy; 2021 Sally Rodgers
 
 
 
